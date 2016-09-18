@@ -21,6 +21,10 @@ public class Student {
     public Student(String s, String toString, int i, int parseInt) {
     }
 
+    public Student(String s, Student toString){
+        
+    }
+
     public int getStudent_id() {
         return student_id;
     }
