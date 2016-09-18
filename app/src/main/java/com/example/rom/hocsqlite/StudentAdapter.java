@@ -22,6 +22,7 @@ public class StudentAdapter extends CursorAdapter {
         View view= LayoutInflater.from(context).inflate(R.layout.item_line,parent,false);
         return view;
     }
+    
     //fafasfsdfsdf
 
     @Override
