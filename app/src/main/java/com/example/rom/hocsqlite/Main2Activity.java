@@ -38,6 +38,7 @@ public class Main2Activity extends AppCompatActivity {
         tvName.setText(ten);
         tvAge.setText(tuoi);
         tvSdt.setText(sdt);
+        //cái trung quần què
 
     }
 
