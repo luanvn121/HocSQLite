@@ -25,6 +25,7 @@ public class StudentAdapter extends CursorAdapter {
     
     //fafasfsdfsdf
 
+    //nhanh2
     @Override
     public void bindView(View view, Context context, Cursor cursor) {
         TextView tvName, tvAge,tvSdt;
